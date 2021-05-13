@@ -8,7 +8,7 @@ public class Practice2 {
 	
 	public static void testHashMap() {
 		Map<String, Integer> hash = new HashMap<>();
-		hash.put("First", 1);
+		hash.put("First_1", 1);
 		hash.put("Second",  2);
 		hash.put("Third",  3);
 		hash.put("Four",  4);
